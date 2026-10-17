@@ -8,7 +8,7 @@
 <p align="center">
   <strong>An applied program-analysis research lab.</strong><br>
   Cybersecurity consulting and research technology.<br>
-  <a href="https://phinode.io">phinode.io</a> · research@phinode.io
+  <a href="https://phinode.io">phinode.io</a> · hello@phinode.io
 </p>
 
 > We build semantic models of software and prove vulnerabilities with evidence — not scanner noise. **No claim without a witness.**
